@@ -1,4 +1,3 @@
 print("hello world");
 print("hello bitches");
 print("SDDSD");
-print("Hello my dear friends");
