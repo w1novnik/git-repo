@@ -1,3 +1,5 @@
-print("hello world;");
+print("hello world";);
 print("hello bitches;");
 print("SDDSD;");
+print("Hello to my friend;");
+print("Glad to see u;");
